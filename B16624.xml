@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the proportion of the forces of the Confederates, for carrying on the war against France, this year, 1694</title>
+         </titleStmt>
+         <extent>Approx. 28KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16624</idno><idno type="EEBO-CITATION">12627935</idno>
+  <idno type="VID">199285</idno>
+  <idno type="EEBO-PROQUEST">2264190446</idno>
+  
+            <idno type="STC">Wing A374</idno>
+            <idno type="STC">ESTC R1849</idno>
+            <idno type="OCLC">12627935</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16624)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199285)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 339:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the proportion of the forces of the Confederates, for carrying on the war against France, this year, 1694</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by R. Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licens'd according to order"</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Grand Alliance, War of the, 1689-1697 --  Miscellanea.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199285:1"/>
+            <p>AN ACCOUNT OF THE REASONS Which Induced CHARLES II. King of <hi>England</hi> to declare WAR against the STATES-GENERAL of the United Povinces in 1672.</p>
+            <p>AND OF THE Private League Which He entred into at the same Time with the FRENCH KING to carry it on. AND TO Establish POPERY IN ENGLAND, SCOTLAND, &amp; IRELAND.</p>
+            <p>As they are set down In the HISTORY of the DUTCH WAR; Printed in French at <hi>Paris,</hi> with the Priviledg of the FRENCH KING in 1682.</p>
+            <p>Which Book He caused to be immediately Suppres<g ref="char:EOLhyphen"/>sed at the Instance of the English Ambassador.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Black-Bull</hi> in the <hi>Old-Baily.</hi> MDCLXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:199285:2"/>
+            <pb n="1" facs="tcp:199285:2"/>
+            <head>AN ACCOUNT OF THE REASONS Which Induced CHARLES the II. King of ENGLAND To Declare War against the STATES GENERAL In MDCLXXII.</head>
+            <head type="sub">And of the <hi>PRIVATE LEAGUE</hi> which he entred into at the same time with the <hi>French King</hi> to carry it on, and to Establish Popery in <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </head>
+            <p>WHen King <hi>Charles</hi> II. Declared War against the States of the United Provinces in 1672. and assisted the King of <hi>France</hi> by Sea in the Pro<g ref="char:EOLhyphen"/>secution of a War which brought that great Commonwealth, and with it the Protestant Interest in this Part of Europe so very near to a final Pe<g ref="char:EOLhyphen"/>riod: It was industriously and carefully given out that Religion was not in the least concern'd in the
+<pb n="2" facs="tcp:199285:3"/> Quarrel. The Honour of the King of <hi>England</hi> and of his People so insolently trampled upon by the States General, the hindring of our <hi>East India</hi> Trade, with the Affronts which were put upon our Merchants at <hi>Surinam,</hi> their disputing the Soveraignty of the Sea, and refusing to take down their Flag to our Ships, unless we would promise to engage actually in a War against <hi>France,</hi> were the Causes which were publickly pretended, and answerable Artifices were made use of to engage the People to a Concurrence, which were carry'd on with so good Success, that the Parliament consented to allow such Sums of Money as should be sufficient for the carrying on the Charges of that War.</p>
+            <p>Yet these Reasons were not so plausible but that most considering Men easily saw through them. Those that lov'd the Protestant Interest, could not with patience endure to see the Tripple League, which was the greatest Fence of their Re<g ref="char:EOLhyphen"/>ligion against the growing Greatness of <hi>France,</hi> broken, and new Leagues made with a King whose Aim at an Universal Monarchy was then as visible, though the Effects of it had not been near so fatal as they are now. Therefore o<g ref="char:EOLhyphen"/>ther Methods were followed at home; the Dis<g ref="char:EOLhyphen"/>senters were Caressed, and a Declaration of In<g ref="char:EOLhyphen"/>dulgence was set out, wherein the King expres<g ref="char:EOLhyphen"/>ses so very great Zeal for the Protestant Re<g ref="char:EOLhyphen"/>ligion, <hi>which he had so Eminently Professed in his</hi>
+               <note place="margin">Vid. Kings Declaration of Indulgence <hi>Decemb. 26. 1662.</hi>
+               </note>
+               <hi>most desperate Condition abroad among Roman Catho<g ref="char:EOLhyphen"/>lick Princes;</hi> that he allow'd to the Protestant Dissenters the publick and free Exercise of their
+<pb n="3" facs="tcp:199285:3"/> Religion, in Houses set apart for that purpose, which was only granted to <hi>Roman Catholicks</hi> in their own Houses. And lest this might have too much allienated the Church of <hi>England,</hi> whose Members bore so great a sway in that Parlia<g ref="char:EOLhyphen"/>ment, that a breach with them at that time might have stopped his Designs upon <hi>Holland</hi> in a great measure, by their refusing to pay the Char<g ref="char:EOLhyphen"/>ges of the War, he Declares in the next Session of Parliament, <hi>That this Indulgence should not any way</hi>
+               <note place="margin">Feb. 5. 1672.</note>
+               <hi>prejudice the Church, but that he would support its Rights, and it in its full Power.</hi>
+            </p>
+            <p>His Declarations both at the time when this War was on foot, and ever afterwards as long as he liv'd, were outwardly so very passionate and warm for the Protestant Religion, and the Preserva<g ref="char:EOLhyphen"/>tion of the <hi>English</hi> Government, that unless such fre<g ref="char:EOLhyphen"/>quent Repetitions, of that which in good Man<g ref="char:EOLhyphen"/>ners none would seem to question, might look like over-doing, and so breed Suspicions, nothing could have ever shaken that Opinion which was so firmly grounded in the Hearts of all his Sub<g ref="char:EOLhyphen"/>jects.<note place="margin">Declaration of Indulge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce <hi>Decemb. 26. 1662.</hi>
+               </note> He professed that he should esteem it the most unpardonable Crime which could be com<g ref="char:EOLhyphen"/>mitted against himself, to raise any Suspicions of his unsteadiness in the Protestant Religion in the Minds of his People; and this restrained almost all his Subjects, who were so dazled with his other Royal Endowments, that they could never be perswaded to suspect so much Artifice in a Prince, whose natural Goodness and sweetness of Temper did so effectually charm all those who had the honour to be near his Person.</p>
+            <pb n="4" facs="tcp:199285:4"/>
+            <p>But tho these repeated Protestations had wrought so entire a Confidence in the minds of his Peo<g ref="char:EOLhyphen"/>ple, that they rested satisfy'd in the Sincerity of his Intentions, and interpreted all those Actions which tended to the supporting of the Popish In<g ref="char:EOLhyphen"/>terest in <hi>England,</hi> to his Tenderness towards the Duke of <hi>York,</hi> whom he resolved never to aban<g ref="char:EOLhyphen"/>don, notwithstanding the Importunities of his People, and the Safety of Himself and his King<g ref="char:EOLhyphen"/>doms seemed to require it: Yet the King of <hi>France</hi> was not so tender of his Honour, as to conceal these private Treaties and Alliances, which at his Sollicitations the King entred into against the <hi>United Provinces,</hi> and to the destructi<g ref="char:EOLhyphen"/>on of the Protestant Religion, and the Over<g ref="char:EOLhyphen"/>throw of the <hi>English</hi> Liberties: but he consented so far to the Publication of an Account of the War with <hi>Holland,</hi> and of the Rea<g ref="char:EOLhyphen"/>sons and Motives which engaged the Two Kings to carry it on; that the Abbot <hi>Primi,</hi> who put out the Book in <hi>Italian</hi> Tongue, was em<g ref="char:EOLhyphen"/>ploy'd by Mr. <hi>Colbert de Croissy,</hi> and a Pension was allow'd him for his pains in publishing it also in <hi>French:</hi> Which Book was published by Authori<g ref="char:EOLhyphen"/>ty at <hi>Paris</hi> in the Year 1682. It is well known how severe that Government is in matters of that nature, where nothing is ever publickly set forth of any Importance as to the Church or State, but what perfectly agree with the Inclinations and Interests of those who are there so very absolute. It was publickly known at <hi>Paris,</hi> that Mr. <hi>L' Abbé Primi</hi> had a Pension from Mr. <hi>Colbert de Croissy:</hi> and when Men are employed by Ministers of State
+<pb n="5" facs="tcp:199285:4"/> to publish Accounts of the Transactions of the Governments, their Writings are rather looked upon as Apologies than Histories: It makes no real difference, whether what a Man Writes in such a case, be a Translation or an Original, he will be supposed to have endeavoured to please those who employ'd him, and all the fair Protestations of Sincerity, and Faithfulness, and Skill which such a man can use, will be only looked upon as Words of course, when once the Reasons of his setting up for an Historian are publickly known. The Original of the Count St. <hi>Majolo</hi> was printed in <hi>Italian;</hi> and the Priviledge ran as well to the printing it in <hi>Italian</hi> as <hi>French;</hi> Whatsoever I do judge that the Name of Count St. <hi>Majolo</hi> was a kind of Trick of the Abbot <hi>Primi</hi> to talk of secret Alliances, of break<g ref="char:EOLhyphen"/>ing Leagues, of his Masters persuading the King of <hi>England</hi> to seize the <hi>Dutch Smirna</hi> Fleet, and of several other Secrets in the Negotiations of <hi>Holland, England,</hi> and <hi>France</hi> in his own Name. For, when all is laid up<g ref="char:EOLhyphen"/>on a Foreigner, one may speak with great assurance, and and the Count St. <hi>Majolo</hi> will then answer for the very things for which Monsieur <hi>L'Abbé</hi> receives his Pension.</p>
+            <p>If our Minister at <hi>Paris,</hi> when this Book first appeared had not by a timely and a diligent ap<g ref="char:EOLhyphen"/>plication procured its being stopp'd, we might without question have had several other Impor<g ref="char:EOLhyphen"/>tant Secrets published in the following Books (for we have only Two Books of Ten printed) which now we can only conjecture at. But the earnest Complaints of my Lord <hi>Preston,</hi> who was then Envoy from King <hi>Charles</hi> II. at <hi>Versailles,</hi> prevail<g ref="char:EOLhyphen"/>ed so far that the Book was immediately stop<g ref="char:EOLhyphen"/>ped, and the Edition totally suppressed, so that
+<pb n="6" facs="tcp:199285:5"/> very few had ever heard of it, and much fewer especially in <hi>England,</hi> had seen it. And to put a face upon the Matter, Monsieur <hi>L' Abbé</hi> was thrown into the <hi>Bastille;</hi> from whence after a Mock-Imprisonment of nine or ten days he was let out again. All that were at <hi>Paris</hi> at that time knew the Story, and all those that were at all acquainted with the Arbitrary Severity of the <hi>French</hi> Government, could easily see thro the Gri<g ref="char:EOLhyphen"/>mace; which was the better covered because Count S. <hi>Majola</hi> was to bear all the blame; who if he be not related to <hi>Buffendorfs Monzam<g ref="char:EOLhyphen"/>bano</hi> (another <hi>Italian</hi> Count also) yet his Testimo<g ref="char:EOLhyphen"/>ny might easily be over-ruled, and so could fur<g ref="char:EOLhyphen"/>nish those Persons with a ready excuse, whose Interest it was, that such Agreements which were contrary to their open and publick Protestations should either never be known, or if once di<g ref="char:EOLhyphen"/>vulged not believed.</p>
+            <p>I shall not stand to compare the matters of Fact which are here set down, with those Re<g ref="char:EOLhyphen"/>ports which at that time pass'd currant in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> they are things which fall within most peo<g ref="char:EOLhyphen"/>ples Memory; my business is only to give such an. Account of our Proceedings, as was published at <hi>Paris</hi> with the Priviledge of the King of <hi>France,</hi> as fully granted as in any other case whatever. Our Author tells us that the growing Greatness<note place="margin">Pag 18, 15.</note> of the King of <hi>France,</hi> after the Peace of <hi>Aix la Chapelle</hi> was concluded by the mediation of the King of <hi>England,</hi> was so very terrible to the Queen Mother of <hi>Spain,</hi> who was Guardian to her Son <hi>Charles</hi> II. King of <hi>Spain,</hi> that she em<g ref="char:EOLhyphen"/>ploy'd her ablest Ministers to persuade <hi>England, Holland,</hi> and <hi>Sweden,</hi> to join in an Alliance for
+<pb n="7" facs="tcp:199285:5"/> the preservation of the Peace, and the reciprocal security of each others Kingdoms.</p>
+            <p>The <hi>Hollanders</hi> he tells us, greedily embraced it, and ran into the Triple League with great readiness, not much concerning themselves with <hi>France,</hi> which they thought could make no great opposition to them by Sea, and by Land they were so fortify'd by the natural Fences of their Dikes, that they apprehended on that side no sort of danger.</p>
+            <p>A constant Series of Success against the <hi>Spaniards,</hi>
+               <note place="margin">Pag. 21.</note> who declared them a Sovereign and Independant Republick in 1648. pushed them on to great In<g ref="char:EOLhyphen"/>solencies against the King of <hi>France:</hi> they interpo<g ref="char:EOLhyphen"/>sed<note place="margin">Pag. 45.</note> in the Affairs of <hi>Germany,</hi> as if they had been immediately concerned: they determined Peace or War amongst their Neighbours, as they thought would be most for their own Interest: they threatned to ruin the Kingdom of <hi>France,</hi> by prohibiting any Commerce with <hi>French</hi> Manufactures, and scattered Medals, and Pictures very derogatory to the Honour of the <hi>French</hi> King. Their busying themselves so much with the Affairs of <hi>Germany</hi> was a means to en<g ref="char:EOLhyphen"/>gage the Bishop of <hi>Munster</hi> to keep up his Army af<g ref="char:EOLhyphen"/>ter he had concluded a Peace with the Duke of <hi>Bruns<g ref="char:EOLhyphen"/>wick</hi>
+               <note place="margin">Pag. 48.</note>
+               <hi>Wolfembottel,</hi> and to declare against the Encroach<g ref="char:EOLhyphen"/>ments of the <hi>Hollanders</hi> upon the Empire: which opportunity the <hi>French</hi> King laid hold of, to make an Alliance with him and the Princes of the House of <hi>Furstemberg,</hi> and the Bishop of <hi>Strasburg</hi> against <hi>Holland;</hi> by which means he secured the Pastes up<g ref="char:EOLhyphen"/>on the <hi>Rhine</hi> and the <hi>Maese,</hi> which lay convenient for<note place="margin">Pag. 52.</note> the setting upon the <hi>Hollanders</hi> by Land, who till then had thought themselves secure from any At<g ref="char:EOLhyphen"/>tacks on that side.</p>
+            <pb n="8" facs="tcp:199285:6"/>
+            <p>He engaged the Emperor also to a Neutrality,<note place="margin">Pag. 57. 58.</note> and perswaded him to ratifie those Alliances which the <hi>French</hi> King had already made with the Bishops of <hi>Munster</hi> and <hi>Strasburgh,</hi> and the Princes of the House of <hi>Furstemberg,</hi> with assurances that he would not concern himself in those quarrels, unless either the Empire or the King of <hi>Spain</hi> should be invaded.</p>
+            <p>The King of <hi>England</hi> was already very much disatisfi'd with the <hi>Hollanders,</hi> and was willing e<g ref="char:EOLhyphen"/>nough<note place="margin">Pag. 58.</note> to disengage himself from the Triple League: For the <hi>Hollanders</hi> had refused to stand to those Regulations about the <hi>East-India</hi> Trade, which had been concluded upon at <hi>Breda;</hi> and their Ves<g ref="char:EOLhyphen"/>sels would not lower their Topsails to the <hi>English</hi> Men of War, and they disputed the Soveraignty of the Sea, unless the King of <hi>England</hi> would declare<note place="margin">Pag. 59.</note> for them against <hi>France</hi> in case of a Breach, which things were very dishonourable for the <hi>English</hi> Na<g ref="char:EOLhyphen"/>tion, and were great Instances of the Treachery of the <hi>Hollanders,</hi> and of the small assistance which the <hi>English</hi> could promise to themselves from their Friendship.</p>
+            <p>
+               <q rend="margQuotes">
+                  <hi>Colbert de Croissy,</hi> the <hi>French</hi> Ambassador at <hi>London,</hi>
+                  <note place="margin">Pag. 60.</note> urged all these things to the K. of <hi>England;</hi> he put him in mind of the Medals which the <hi>Hollanders</hi> pub<g ref="char:EOLhyphen"/>lished, wherein they attributed to themselves all the Glory of concluding the Peace of <hi>Aix la Capelle,</hi> which had been obtained by the K. of <hi>Englands</hi> Mediation; and told him that this was the time wherein he might take his Revenge upon a Nation which had so little respect for Kings, and that he never could expect a more favourable opportunity, since several <hi>German</hi>
+                  <note place="margin">Pag. 61.</note> Princes had already entred into a League, and the King of <hi>France</hi> was sufficiently powerful to satisfie
+<pb n="9" facs="tcp:199285:6"/> all his Confederates in the Prosecution of this War, both as to their Advantage and Credit.</q>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="parallel_text">
+                        <p>These things engaged the King of <hi>England</hi> to sign a <hi>Secret Treaty</hi> with <hi>France;</hi> and to make it the more firm, <hi>Henrietta</hi> Dutchess of <hi>Orleans,</hi> a Princess whose Wit was equal to her Beauty, Sister to the King of <hi>England,</hi> and Si<g ref="char:EOLhyphen"/>ster-in-law to the King of <hi>France,</hi> went over into <hi>England</hi> in 1670, and pro<g ref="char:EOLhyphen"/>posed a Treaty to her Brother, in the Name of the most Christian King, wherein she proffer'd to secure to him <hi>an Abso<g ref="char:EOLhyphen"/>lute Authority over his Parliament, and the re<g ref="char:EOLhyphen"/>establishment of the Ro<g ref="char:EOLhyphen"/>man Catholick Religion in his Three Kingdoms of</hi> England, Scotland, <hi>and</hi> Ireland. But she said, that before this could be effected, there was an ab<g ref="char:EOLhyphen"/>solute necessity of aba<g ref="char:EOLhyphen"/>ting the Haughtiness and Power of the <hi>Hollanders,</hi> who only study'd to fo<g ref="char:EOLhyphen"/>ment Divisions amongst their Neighbours; and to reduce them to the single Province of <hi>Hol<g ref="char:EOLhyphen"/>land,</hi>
+                           <pb n="10" facs="tcp:199285:7"/> of which the Prince of <hi>Orange</hi> should be So<g ref="char:EOLhyphen"/>vereign, or at least perpe<g ref="char:EOLhyphen"/>tual Governour; which would not be difficult for these two Mighty Kings, when once well united, to accomplish: so that by this means the King of <hi>England</hi> might have <hi>Zealand</hi> to retire to, if there should be occasion; and that the rest of the <hi>Low-Countries</hi> should remain to the King of <hi>France,</hi> when<g ref="char:EOLhyphen"/>ever he should be able to conquer them.</p>
+                        <div xml:lang="fre" type="version">
+                           <pb n="9" facs="tcp:199285:6"/>
+                           <p>ce qui engagea ce Prince à signer un Traité secret avec la France; &amp; pour l'asseu<g ref="char:EOLhyphen"/>rer encore d'avantage Hen<g ref="char:EOLhyphen"/>riette d'Angleterre, Duchesse d'Orleans, Princesse qui avoit autant d'esprit que de beauté, soeur du Roy d'Angleterre, &amp; belle soeur du Roy de France, passaen Angleterre en 1670, &amp; proposa au Roy son frere, au nom du Roy tres-Chrêtien, de lui asseu<g ref="char:EOLhyphen"/>rer un autorité absolüe sur son Parlement, &amp; de resta<g ref="char:EOLhyphen"/>blir la Religion Catholique dans les Royaumes d'Angle<g ref="char:EOLhyphen"/>terre, d'Escosse, &amp; d'Ir<g ref="char:EOLhyphen"/>lande. Mais elle disoit que pour en venir à bout, il fa<g ref="char:EOLhyphen"/>loit avant toutes choses abais<g ref="char:EOLhyphen"/>ser l'orgüeil &amp; la puissance des Hollandois qui ne songe<g ref="char:EOLhyphen"/>oient qu'à mettre la division parmi leurs voisins; &amp; les reduire à la seule Province d'Hollande, de laquelle le Prince d'Orange seroit Sou<g ref="char:EOLhyphen"/>uerain, ou au moins Gouver<g ref="char:EOLhyphen"/>neur perpetuel, ce qui ne seroit pas difficile à deux
+<pb n="10" facs="tcp:199285:7"/> grands Roys puissants &amp; bien unis, &amp; que par ce moy<g ref="char:EOLhyphen"/>en le Roy d'Angleterre au<g ref="char:EOLhyphen"/>roit la Zelande, pour lui servir de retraite en cas de besoin, &amp; que le reste des Pays bas demeureroit au Roy de France, s'il pouvoit s'en rendre maistre.</p>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>When the King of <hi>France</hi> had thus secur'd him<g ref="char:EOLhyphen"/>self by these Alliances, he immediately began his preparations for War, and filled his Stores, and rai<g ref="char:EOLhyphen"/>sed Men, some publickly, and some under-hand, all over <hi>France,</hi> in <hi>Switzerland, Italy,</hi> and <hi>England.</hi>
+            </p>
+            <p>Tho these Negotiations, and especially with <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> were carry'd on with all the secrecy that mat<g ref="char:EOLhyphen"/>ters<note place="margin">P. 65.</note> of that Importance required, yet the <hi>Hollanders</hi> had such Notices given, as did exceedingly surprize them. <q rend="margQuotes">They could not imagine, that the <hi>English</hi> would quit the Triple League; they said, this was a Report raised by the <hi>French</hi> to amuse Man<g ref="char:EOLhyphen"/>kind<note place="margin">P. 75.</note> withal; they thought, that the present Conduct of the King of <hi>England</hi> gave convincing Proofs to the contrary: He had just before dis<g ref="char:EOLhyphen"/>missed out of his Ports a Fleet of <hi>Dutch</hi> Mer<g ref="char:EOLhyphen"/>chant-men,<note place="margin">P. 76.</note> and some <hi>Amsterdam</hi> Vessels besides; and recalled Sir <hi>George Downing,</hi> his Minister at the <hi>Hague,</hi> for speaking with too much warmth to the States General: So that, in short, he seem<g ref="char:EOLhyphen"/>ed in all his Actions to declare, that his Intenti<g ref="char:EOLhyphen"/>ons
+<pb n="11" facs="tcp:199285:7"/> of keeping up a good Correspondence with <hi>Holland</hi> were sincere.</q> However, the Breaches every day grew wider and wider between <hi>France</hi> and <hi>Holland;</hi> and matters were carried so far on both sides, that the <hi>French</hi> King resolved to begin the War the next Spring; <q rend="margQuotes">and in the mean time he took se<g ref="char:EOLhyphen"/>cret<note place="margin">1672.</note> Measures with the King of <hi>England</hi> to set up<g ref="char:EOLhyphen"/>on<note place="margin">P. 87.</note> them together, and to surprize them both by Sea and Land.</q>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="parallel_text">
+                        <q rend="margQuotes">
+                           <p>As for the King of <hi>England,</hi> he was exceedingly per<g ref="char:EOLhyphen"/>plexed; there was need of Money to carry on on the Design, and that<note place="margin">P. 88.</note> secretly too: He could raise none at home without calling a Par<g ref="char:EOLhyphen"/>liament, and that could not be done without ac<g ref="char:EOLhyphen"/>quainting all <hi>Europe</hi> with his Designs: there was also great fear of opposition, both from the misunderstandings which in that <hi>Tumultu<g ref="char:EOLhyphen"/>ous Assembly</hi> do for the most part arise between the Two Houses; and from the Intrigues of the <hi>Hollanders.</hi> For which Reasons the K. of <hi>France</hi> furnish'd him with such Sums of Mo<g ref="char:EOLhyphen"/>ney as were sufficient to send out a considera<g ref="char:EOLhyphen"/>ble
+<pb n="12" facs="tcp:199285:8"/> Fleet; and he ad<g ref="char:EOLhyphen"/>vised the King of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> (the better to con<g ref="char:EOLhyphen"/>ceal their Agreements) to keep a fair Correspondence outwardly with the <hi>Dutch,</hi> to appear firm to the Triple League,<note place="margin">P. 89.</note> and to declare that he set out a Fleet for no other Reasons, but because his Neighbors, and especi<g ref="char:EOLhyphen"/>ally the <hi>French,</hi> who made great Preparations in all their Ports upon the Ocean, strengthen'd themselves so very considerably by Sea.</p>
+                        </q>
+                        <pb n="11" facs="tcp:199285:7"/>
+                        <div xml:lang="fre" type="version">
+                           <q rend="margQuotes">
+                              <p>Le Roy d'Angleterre de son coté estoit embarassé, il fa<g ref="char:EOLhyphen"/>loit du secret &amp; de l'argent pour faire reūssier l'entre<g ref="char:EOLhyphen"/>prise, &amp; il ne pouvoit rien tirer de ses peuples qu'en convoquant son Parlement, ce qui faisoit connoitre ses desseins à toute l'Europe, outre que cette Assemblée tu<g ref="char:EOLhyphen"/>multueuse par la mauvaise intelligence qui est ordinaire<g ref="char:EOLhyphen"/>ment entre les deux Cham<g ref="char:EOLhyphen"/>bres &amp; par les Intrigues des Hollandois pouvoit s'y oppo<g ref="char:EOLhyphen"/>ser; mais le Roy tres-Chrê<g ref="char:EOLhyphen"/>tien luy envoya des sommes suffisantes pour mettre en mer un flotte considerable, &amp; luy conseilla pour mieux ca<g ref="char:EOLhyphen"/>cher leur union de temoigner aux Hollandois qu'il vouloit bien vivre avec eux, de pa<g ref="char:EOLhyphen"/>roitre ferme dans les traitez de triple Alliance, &amp; de pub<g ref="char:EOLhyphen"/>lier qu'il ne vouloit avoir une flotte que parce que ses
+<pb n="12" facs="tcp:199285:8"/> voisins, &amp; particulierement les François, faisoient de grands armemens dans tous les ports qu'ils auoient sur l'Ocean.</p>
+                           </q>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Yet all this was not carried on so secretly, but their own Residents at <hi>London,</hi> and the Ministers of other Princes in K. <hi>Charles</hi>'s Court, gave the <hi>Hollan<g ref="char:EOLhyphen"/>ders</hi> such sure Advertisements of his altering his Mea<g ref="char:EOLhyphen"/>sures, that they found it past all question. Pensioner <hi>de Witt</hi> fell in a Swoon in the Stadt-house, upon<note place="margin">P. 91.</note> reading of a Letter which gave him an Account of it; and as soon as he had recovered himself, he pro<g ref="char:EOLhyphen"/>posed to send the <hi>Heer Meerman</hi> into <hi>England,</hi> to re<g ref="char:EOLhyphen"/>new the old Alliances; who was immediately se<g ref="char:EOLhyphen"/>conded by the Marquess <hi>del Freno,</hi> the <hi>Spanish</hi> Mini<g ref="char:EOLhyphen"/>ster,<note place="margin">P. 93.</note> who was sent thither on purpose to joyn with him in making use of all sorts of Arguments which might oblige the King of <hi>England</hi> to break off his<note place="margin">P. 118.</note> new Treaty with <hi>France.</hi>
+            </p>
+            <p>But all these Applications proving ineffectual, all things tended to a War: It was known that the K. of <hi>England</hi> had declared for <hi>France;</hi> and that being provok'd with the usage which his Subjects had re<g ref="char:EOLhyphen"/>ceived at <hi>Surinam,</hi> he had renewed a Treaty with <hi>France</hi> against <hi>Holland,</hi> and had promised to begin<note place="margin">P. 119.</note> the War, provided that his most Christian Majesty would declare War against the States in the begin<g ref="char:EOLhyphen"/>ning of <hi>May.</hi>
+            </p>
+            <pb n="13" facs="tcp:199285:8"/>
+            <p>And tho the Earnestness which the King and the D. of <hi>York</hi> shewed in the Prosecution of this business was extraordinary, though they set out Ships, and man'd them with all the Industry and Application possible; <q rend="margQuotes">yet because the Government of <hi>England</hi> was mix'd and that in the great Concerns of the Nation, or in raising of Mony, there was a ne<g ref="char:EOLhyphen"/>cessity of a Parliament; <hi>which is like the People of</hi>
+                  <note place="margin">P. 120.</note>
+                  <hi>whom it is made up, not always of the same Mind;</hi> and that the variableness of their Climate is even vi<g ref="char:EOLhyphen"/>sible in their Counsels: and besides, since the Dutchess of <hi>Orleans</hi> dy'd soon after her return in<g ref="char:EOLhyphen"/>to <hi>France;</hi> For these Reasons the King of <hi>France</hi> did not much rely upon any Assistance from <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and so took his Measures in such a manner, that the King of <hi>England</hi> might be assur'd they must succeed in case he should fail him; and there<g ref="char:EOLhyphen"/>fore he would not suffer the Rage of the <hi>English</hi> against the <hi>Dutch</hi> at that time to cool, but he rather endeavoured to plunge them into a War, by such an Action as might correspond to their earnest De<g ref="char:EOLhyphen"/>sire of being revenged.</q>
+            </p>
+            <p>And this Design soon succeeded; for the <hi>French</hi> having notice of the return of the <hi>Dutch Smyrna</hi>-Fleet, which were then at Sea, they immediately acquainted the King of <hi>England</hi> with it, and told<note place="margin">P. 121.</note> him, <q rend="margQuotes">that this was a favourable Opportunity for him to engage the <hi>English</hi> in a certain War: They told him, that such a Prize would furnish him with more Mony in one Day, than he could get from his Parliament in a Year; and perhaps so<note place="margin">P. 122.</note> great a Prize might put him, during the whole
+<pb n="14" facs="tcp:199285:9"/> course of the War, in such a condition, as that he would not stand in need of his Parliament; and that he ought not to let slip such an Opportu<g ref="char:EOLhyphen"/>nity, because he certainly knew, that what Success soever it might have, yet his People, who always carry'd themselves very high upon a prosperous turn of Affairs, who were sensible of Affronts, would spare for nothing which might carry on the War, wherein they might expect to humble the <hi>Dutch,</hi> and to revenge the Wrongs of their Merchants, and of their Nation in general, upon those who would dispute the Soveraignty of the Sea with them.</q>
+            </p>
+            <p>Upon these Sollicitations the King consented, and sent Sir <hi>Robert Holmes</hi> with Nine Men of War into<note place="margin">P. 123.</note> the Channel, to expect the coming of this <hi>Smyrna</hi> Fleet. And it had this effect, That tho the <hi>Dutch,</hi> (who had some Notice of it before) did in a thick Foggy Night, escape without any very considera<g ref="char:EOLhyphen"/>ble Loss; yet this engaged the <hi>English</hi> to a War, which was immediately hereupon openly Proclaim<g ref="char:EOLhyphen"/>ed by the King of <hi>England,</hi> against the States Gene<g ref="char:EOLhyphen"/>ral: Which was earnestly pressed by Mr. <hi>Colbert de</hi>
+               <note place="margin">P. 132.</note>
+               <hi>Croissy,</hi> who advised him not to delay, after the stri<g ref="char:EOLhyphen"/>king so Signal, as well as so unexpected a Stroak.</p>
+            <p>How far the Causes alledged in the Declaration of War, which followed soon after, and the Reasons by which the King endeavoured to persuade his Par<g ref="char:EOLhyphen"/>liament to a hearty Concurrence with him in it, a<g ref="char:EOLhyphen"/>greed with these Motives, every Man may judg. Whoever considers the Carriage of the King of <hi>France</hi> in other things, will not wonder at such a
+<pb n="15" facs="tcp:199285:9"/> piece of Treachery as the publication of these Se<g ref="char:EOLhyphen"/>crets was, whilst King <hi>Charles</hi> II. was alive: And I believe, that the sending a Man to the <hi>Bastile</hi> for Ten Days, who was notoriously known to have been Employed for this very purpose, did convince as few People of the Falshood of these pretended Alli<g ref="char:EOLhyphen"/>ances, as the sending of Mr. <hi>Skelton</hi> to the <hi>Tower</hi> by King <hi>James</hi> II. did; which was so very like, that one would think the Mock-proceedings against Mr. <hi>L'Abbé Primi,</hi> gave a Patern to the King of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> to Animadvert upon his own Minister, who by the Confession of the <hi>French</hi> Resident at the <hi>Hague,</hi> acted by his Majesty's Order, only the Se<g ref="char:EOLhyphen"/>cond Part of what the Abbot wrote.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
